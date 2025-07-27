@@ -32,10 +32,12 @@
 - df.sort_values()
 - df.sample()
 - df.reset_index()
-- df['col'].quantile()
+- df['col'].quantile() - minimum
+- iqr - minimum
 - df.corr()
 - .kde()
 - df.hist()
+- df lambda - minimum
 
 **NumPy**
 - np.array()
@@ -52,7 +54,8 @@
 - plt.plot()
 - plt.scatter()
 - plt.hist()
-- plt.imshow()
+- plt.imshow() - minimum
+- plt.imread() - minimum
 - plt.subplots()
 - plt.tight_layout()
 - plt.show()
@@ -61,12 +64,13 @@
 - plt.xlabel()
 - plt.ylabel()
 - plt.legend()
-- plt.axhline()
-- plt.axvline()
+- plt.axhline() - minimum
+- plt.axvline() - minimum
 
 **Seaborn**
 - sns.histplot()
 - sns.kdeplot()
+- sns.boxplot()
 - sns.boxenplot()
 - sns.scatterplot()
 - sns.heatmap()
@@ -75,6 +79,7 @@
 
 **Scikit-learn**
 - MinMaxScaler() - minimum
+- sc.fit() - minimum
 - sc.fit_transform() - minimum
 - StndardScaler() - minimum
 - RobustScaler() - minimum
