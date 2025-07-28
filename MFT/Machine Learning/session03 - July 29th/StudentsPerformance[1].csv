@@ -12,7 +12,7 @@
 "male","group C","associate's degree","standard","none","58","54","52"
 "male","group D","associate's degree","standard","none","40","52","43"
 "female","group B","high school","standard","none","65","81","73"
-"male","group A","some college","standard","completed","78","72","70"
+"male","group A",some college,"standard","completed","78","72","70"
 "female","group A","master's degree","standard","none","50","53","58"
 "female","group C","some high school","standard","none","69","75","78"
 "male","group C","high school","standard","none","88","89","86"
